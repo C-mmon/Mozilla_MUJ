@@ -60,23 +60,23 @@ If a Mozilla MUJ community member engages in unacceptable behavior, the communit
 
 ## **If You Witness or Are Subject to Unacceptable Behavior**
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify any member of the MozillaPH community leadership as soon as possible. You can find a list of organizers to contact for each of the supporters of this code of conduct at the bottom of this page. Additionally, MozillaPH community leaders are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events or activities, MozillaPH community organizers will also provide escorts as desired by the person experiencing distress.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify any member of the Mozilla MUJ community leadership as soon as possible. You can find a list of organizers to contact for each of the supporters of this code of conduct at the bottom of this page. Additionally, Mozilla MUJ community leaders are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events or activities, Mozilla MUJ community organizers will also provide escorts as desired by the person experiencing distress.
 
 ## **Addressing Grievances**
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify any member of the MozillaPH community leadership or event organizer with a concise description of your grievance. Your grievance will be discussed and handled by the leadership of MozillaPH accordingly.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify any member of the Mozilla MUJ community leadership or event organizer with a concise description of your grievance. Your grievance will be discussed and handled by the leadership of Mozilla MUJ accordingly.
 
 ## **Scope**
 
-We expect all MozillaPH community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues — online and in-person — as well as in all one-on-one communications pertaining to community business.
+We expect all Mozilla MUJ community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues — online and in-person — as well as in all one-on-one communications pertaining to community business.
 
 ## **Data Protection**
 
-MozillaPH recognizes the importance of protecting the personal data of everyone we do business with, including volunteers, suppliers, and supporters. We believe that responsible stewardship of personal data is a critical part of maintaining trust and of ensuring that individuals feel confident that MozillaPH respects their right to privacy. MozillaPH will never distribute, sell (in exchange for monetary or non-monetary value), nor share participant and member data or information to anyone outside of the organization without written consent from the respective data subject/s.
+Mozilla MUJ recognizes the importance of protecting the personal data of everyone we do business with, including volunteers, suppliers, and supporters. We believe that responsible stewardship of personal data is a critical part of maintaining trust and of ensuring that individuals feel confident that Mozilla MUJ respects their right to privacy. Mozilla MUJ will never distribute, sell (in exchange for monetary or non-monetary value), nor share participant and member data or information to anyone outside of the organization without written consent from the respective data subject/s.
 
 ## **TeamFreebies Clause**
 
-All activities and events organized by the Mozilla Philippines Community (MozillaPH) are carefully planned and well thought of. Being a non-profit organization, every cent that goes to the funding of our activities and events are very important. All MozillaPH activities and events, unless otherwise stated or explicitly invited, require an RSVP from attendees. At present, MozillaPH utilizes Eventbrite.com for RSVP purposes. MozillaPH does not tolerate any form of gatecrashing to our activities and events. We reserve the right to deny entry to anyone who had previously been found violating this Code of Conduct or had failed to RSVP to any of our activities or event. This is done to ensure that all those who RSVPd will be accommodated. Registrants who fail to attend without canceling his/her RSVP have been barred from signing-up for our future activities and events.
+All activities and events organized by the Mozilla MUJ Community (Mozilla MUJ) are carefully planned and well thought of. Being a non-profit organization, every cent that goes to the funding of our activities and events are very important. All Mozilla MUJ activities and events, unless otherwise stated or explicitly invited, require an RSVP from attendees. At present, Mozilla MUJ utilizes Eventbrite.com for RSVP purposes. Mozilla MUJ does not tolerate any form of gatecrashing to our activities and events. We reserve the right to deny entry to anyone who had previously been found violating this Code of Conduct or had failed to RSVP to any of our activities or event. This is done to ensure that all those who RSVPd will be accommodated. Registrants who fail to attend without canceling his/her RSVP have been barred from signing-up for our future activities and events.
 
 ## **Reporting**
 
